@@ -1,0 +1,5 @@
+*.swp
+.terraform
+override.tf
+*_override.tf
+*.tf_
